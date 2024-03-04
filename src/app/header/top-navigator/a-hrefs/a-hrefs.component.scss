@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+body a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color:  #4F5665;
+}

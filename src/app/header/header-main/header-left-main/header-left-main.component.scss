@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+}
+
+h1 {
+  font-family: Rubik;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+p {
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+button {
+  border: 1px solid #f53838;
+  border-radius: 10px;
+  padding: 17.5px 77.5px;
+  background-color: #f53838;
+  color: white;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: fit-content;
+}
