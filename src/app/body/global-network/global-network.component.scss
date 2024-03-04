@@ -1,0 +1,31 @@
+.flex_collumn {
+  display: flex;
+  flex-direction: column;
+}
+.flex_collumn h1 {
+  font-family: Rubik;
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.flex_collumn p {
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.flex_collumn span {
+  font-weight: bold;
+}
+
+#global {
+  height: 100%;
+  width: auto;
+  margin-top: 50px;
+}
