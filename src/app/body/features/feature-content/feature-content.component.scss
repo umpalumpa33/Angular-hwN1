@@ -1,0 +1,19 @@
+.short_infos {
+  display: flex;
+  flex-direction: column;
+}
+
+.info_1,
+.info_2,
+.info_3,
+.info_4 {
+  display: flex;
+  align-items: center;
+  flex: row;
+  gap: 5px;
+}
+
+.short_infos img {
+  height: fit-content;
+  justify-content: center;
+}
